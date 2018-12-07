@@ -2,6 +2,10 @@
 LeetCode Problem\
 CS1290 Exam 2
 
+# Problem
+You have a Binary tree you will have to return the inorder traversal of its nodes values
+
+# Approached 
 For this problem I had to used the IDEAL and Duke 7 steps approaches to solve it.
 In order to make IDEAL work with this problem I had to first a Identity what the 
 problem was really asking, which is, you have a Binary tree you will have to 
