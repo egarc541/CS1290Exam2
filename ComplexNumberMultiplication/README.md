@@ -6,7 +6,7 @@ CS1290 Exam 2
 Given two strings representing two complex numbers.
 You need to return a string representing their multiplication.<br> Note i2 = -1 according to the definition
 
-# Approached for Solution
+# Approached 
 For this problem I had to use IDEAL and Duke 7 Step approaches to understand and find a solution. I first try the IDEAL
 approach but it did not help as the problem is kind of complex because instead of adding numbers you will have to first
 understand how to add and get the String out of the equation. The easier approach I used was the Duke 7 Step which consited
