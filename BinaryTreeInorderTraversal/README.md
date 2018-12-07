@@ -2,8 +2,8 @@
 LeetCode Problem\
 CS1290 Exam 2\
 
-For this problem I had to used the IDEAL and Duke 7 steps approaches to solve it.\
-In order to make IDEAL work with this problem I had to first a Identity what the\ 
+For this problem I had to used the IDEAL and Duke 7 steps approaches to solve it.
+In order to make IDEAL work with this problem I had to first a Identity what the 
 problem was really asking, which is, you have a Binary tree you will have to \ 
 return the inorder traversal of its nodes values. After identifying the problem\
 I had to ensure to define the type. After understand what it was really asking\
