@@ -4,7 +4,7 @@ CS1290 Exam 2
 
 # Problem
 Given two strings representing two complex numbers.
-You need to return a string representing their multiplication. Note i2 = -1 according to the definition
+You need to return a string representing their multiplication. \Note i2 = -1 according to the definition
 
 # Approached for Solution
 For this problem I had to use IDEAL and Duke 7 Step approaches to understand and find a solution. I first try the IDEAL
