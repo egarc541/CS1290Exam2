@@ -12,7 +12,7 @@ in this problem.  The code first reads the tree from left to right to ensure tha
 it visits every node and gets the value in the correct way. It will check the top 
 node check first the left node/child , if there is a value it will check left first
 put the value on the list if no values to the left or to the right it will go back
-to the top and it will do the same algorithm of check nodes to the left, setting  
-the value on the list or stack and checking for the right node. For the Duke 7 step 
+to the top and it will do the same algorithm of check nodes to the left, setting
+the value on the list or stack and checking for the right node. For the Duke 7 step
 approach problem was the same procedure. At the end, I found that IDEAL was better 
 for this type of problem due to having a simpler way of approaching it using recursion.
