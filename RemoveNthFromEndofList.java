@@ -1,7 +1,7 @@
 public class RemoveNthFromEndofList{
 public ListNode removeNthFromEnd(ListNode head, int n) {
-    ListNode dummy = new ListNode(0);
-    dummy.next = head;
+    ListNode temp = new ListNode(0);
+    temp.next = head;
     int length  = 0;
     ListNode first = head;
     while (first != null) {
@@ -9,12 +9,12 @@ public ListNode removeNthFromEnd(ListNode head, int n) {
         first = first.next;
     }
     length -= n;
-    first = dummy;
+    first = temp ;
     while (length > 0) {
         length--;
         first = first.next;
     }
     first.next = first.next.next;
-    return dummy.next;
+    return temp.next;
  }
 }
