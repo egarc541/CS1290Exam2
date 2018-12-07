@@ -1,3 +1,10 @@
 # 837. New 21 Game
-LeetCode Problems
-CS1290 Exam 2
+LeetCode Problems\ 
+CS1290 Exam 2 
+
+# Problem 
+Alice plays the following game, loosely based on the card game "21".
+Alice starts with 0 points, and draws numbers while she has less than K points.  During each draw, she gains an integer number of points randomly from the range [1, W], where W is an integer.  Each draw is independent and the outcomes have equal probabilities.
+Alice stops drawing numbers when she gets K or more points.  What is the probability that she has N or less points?
+
+# Approach
