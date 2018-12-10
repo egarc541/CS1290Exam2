@@ -1,5 +1,5 @@
 # 837. New 21 Game
-LeetCode Problems\ 
+LeetCode Problems<br> 
 CS1290 Exam 2 
 
 # Problem 
